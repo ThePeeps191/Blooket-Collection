@@ -1,7 +1,7 @@
 alert("made by Glizzy Flizzy Dlizzy Blizzy✔#0777")
-var pin = prompt(""), // put the game pin
-    name = prompt(""), // put what name you want
-    amount = prompt(""); // put how many bots you want to join the game
+var pin = prompt("Pin"), // put the game pin
+    name = prompt("Name"), // put what name you want
+    amount = prompt("Amount"); // put how many bots you want to join the game
 for (var i = 0; i < amount; i++) {
     fetch("https://api.blooket.com/api/firebase/join", {
         method: "PUT",
