@@ -16,4 +16,4 @@ for (var i = 0; i < amount; i++) {
 }
 
 
-// Please don't steal my code and say its yours or what ever I don't care if you use it just give me credit atleast.
+// Please don't steal my code and say its yours or what ever I don't care if you use it, just give me credit atleast.
