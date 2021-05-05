@@ -1,5 +1,5 @@
 # Log Answers in Console
-Copy the code from https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Answers/answer.js and paste it into the console (press crtl + shift + j to open console)
+Copy the code from https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Answers/answer.js and paste it into the console (press CRTL + SHIFT + J to open console)
 # Answer UI
 Coming soon!!
 
