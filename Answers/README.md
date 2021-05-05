@@ -12,4 +12,4 @@ Coming soon!!
 # Obfuscated
 Q: Why is it obfuscated? 
 
-A: Obfuscated because there is no open-source code that can function the same way.
+A: Obfuscated because there is no open-source code that can function the same way. Also I don't want people claiming that they made the script.
