@@ -1,15 +1,7 @@
 # Log Answers in Console
-Press crtl + shift + j and paste this code below
-```js
-fetch("https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Answers/answer.js")
-.then((res) => res.text()
-.then((t) => eval(t)))
-```
+Copy the code from https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Answers/answer.js and paste it into the console (press crtl + shift + j to open console)
 # Answer UI
 Coming soon!!
 
-
-# Obfuscated
-Q: Why is it obfuscated? 
-
-A: Because there is no open-source code that can function the same way. Also I don't want people claiming that they made the script.
+# Credits/Developed Answer UI
+Developed the Answer UI by: Glizzy Flizzy Dlizzy Blizzy✔#0777 and Sean V#9999
