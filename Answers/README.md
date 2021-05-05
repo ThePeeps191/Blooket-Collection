@@ -11,4 +11,5 @@ Coming soon!!
 
 # Obfuscated
 Q: Why is it obfuscated? 
+
 A: Obfuscated because there is no open-source code that can function the same way.
