@@ -1,5 +1,6 @@
 (async () => {
 
+    alert("Made by: Glizzy Flizzy Dlizzy Blizzy✔#0777");
     const id = prompt('Please input the game id');
     const name = prompt('Please input a bot name');
 
@@ -40,8 +41,7 @@
     const Answers = await GetAnswers.json();
 
     Answers.questions.forEach(question => {
-        console.log('%c made by Glizzy Flizzy Dlizzy Blizzy✔#0777');
-        console.log(`${question.question} is: ${question.correctAnswers.join(', ')}`);
+        console.log(`Q: ${question.question} A: ${question.correctAnswers.join(', ')}`);
     });
 
 })();
