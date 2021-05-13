@@ -4,6 +4,8 @@
     const id = prompt('Please input the game id');
     const name = prompt('Please input a bot name');
 
+    if (!name) return console.log('Please provide a name, (Restart your whole process).')
+
     const JoinGame = await fetch("https://api.blooket.com/api/firebase/join", {
         headers: {
             "accept": "application/json, text/plain, */*",
@@ -41,7 +43,7 @@
     const Answers = await GetAnswers.json();
 
     Answers.questions.forEach(question => {
-        console.log(`Q: ${question.question} A: ${question.correctAnswers.join(', ')}`);
+        console.log(`Q: ${question.question} A: ${question.correctAnswers.join(', ')}`); 
     });
 
 })();
