@@ -4,7 +4,7 @@ var amount = prompt('How many tokens do you want? (max 500 daily)');
 fetch("https://api.blooket.com/api/users/addtokens", {
     method: "PUT",
     "headers": {
-        "referrer": "https://www.blooket.com/",
+        "referer": "https://www.blooket.com/",
         "content-type": "application/json",
         "authorization": localStorage.token
     },
