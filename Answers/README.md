@@ -8,3 +8,6 @@ Copy the code from https://raw.githubusercontent.com/glixzzy/Blooket-Collection/
 Developed the Answer UI by: Glizzy Flizzy Dlizzy Blizzy✔#0777 and Sean V#9999
 
 Please don't steal code and say you made it or what ever give us credit!!
+
+# Get answers from a homework link
+Probably will make it, but i cba for now
