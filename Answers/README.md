@@ -10,4 +10,6 @@ Developed the Answer UI by: Glizzy Flizzy Dlizzy Blizzy✔#0777 and Sean V#9999
 Please don't steal code and say you made it or what ever give us credit!!
 
 # Get answers from a homework link
-COMING VERY SOON!
+Copy the code frmo https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Answers/getAnswersHWLink.js and paste it into the console (press CRTL + SHIFT + J to open console)
+
+I'm gonna update the code so it can be more efficient 
