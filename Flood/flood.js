@@ -1,4 +1,4 @@
-alert("made by Glizzy Flizzy Dlizzy Blizzy✔#0777")
+alert("made by glizzz_y#0777")
 var pin = prompt("Pin"), // put the game pin
     name = prompt("Name"), // put what name you want
     amount = prompt("Amount"); // put how many bots you want to join the game
