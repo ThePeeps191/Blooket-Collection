@@ -1,5 +1,5 @@
 # Add tokens in your account
-just run the script in the console (crtl + shift + j)
+copy paste the code from https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Tokens/addTokens.js and then press crtl + shift + j and do the rest it says 
 
 
 # Don't steal
