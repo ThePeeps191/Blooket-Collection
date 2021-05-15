@@ -1,4 +1,4 @@
-alert("Made by: Glizzy Flizzy Dlizzy Blizzy✔#0777");
+alert("Made by: glizzz_y#0777");
 var username = prompt('Enter your Blooket username');
 var amount = prompt('How many tokens do you want? (max 500 daily)');
 
