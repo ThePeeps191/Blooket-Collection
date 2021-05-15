@@ -45,7 +45,7 @@
             var answerDiv = document.createElement("div");
             var creditDiv = document.createElement("div")
             document.body.appendChild(creditDiv);
-            let credss = document.createTextNode("Created By Sean V, Glizzy Flizzy Dlizzy Blizzy✔#0777")
+            let credss = document.createTextNode("Created By Sean V, glizzz_y#0777")
             creditDiv.appendChild(credss)
             creditDiv.style.display="inline-block"
             creditDiv.style.color = "#ed286d"
