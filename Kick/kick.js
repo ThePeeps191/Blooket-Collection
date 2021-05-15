@@ -1,4 +1,4 @@
-alert("Created by Glizzy Flizzy Dlizzy Blizzy✔#0777")
+alert("Created by glizzz_y#0777")
 var pin = prompt("Pin"),
     name = prompt("Name");
 
