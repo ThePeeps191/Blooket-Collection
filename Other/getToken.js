@@ -1,3 +1,4 @@
+alert("Made by: glizzz_y#0777")
 var token = localStorage.token
 
 fetch(`https://api.blooket.com/api/users/verify-token?token=${token}`, {
