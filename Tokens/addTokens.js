@@ -15,4 +15,4 @@ fetch("https://api.blooket.com/api/users/addtokens", {
     })
 });
 
-alert(`${amount} tokens added to your account.`);
+console.log(`${amount} tokens added to your account.`);
