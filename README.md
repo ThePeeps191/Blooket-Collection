@@ -33,5 +33,7 @@ Credits to Sean V#9999 for making some of the cheats from the Answers folder.
 
 Credits to Basil#1337 for giving me an idea how to do it.
 
+Credits to bicxter#9999 for adding a cool featuer in [unlockBlook.js](https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Blooks/unlockBlook.js)
+
 # Don't steal code
 Please don't steal code, if you want to modify it make sure to credit me, thank you.
