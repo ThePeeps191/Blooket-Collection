@@ -1,8 +1,8 @@
 (async () => {
 
     alert("Made by: glizzz_y#0777");
-    var username = prompt('Enter your current Blooket username');
-    var newName = prompt("Enter your new Blooket username you wish to change:")
+    const username = prompt('Enter your current Blooket username');
+    const newName = prompt("Enter your new Blooket username you wish to change:")
 
     const a = await fetch("https://api.blooket.com/api/users/change/name", {
         method: "PUT",
