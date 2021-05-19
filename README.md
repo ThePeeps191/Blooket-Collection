@@ -19,3 +19,6 @@ This folder gives you access to getting answers from **LIVE** quiz only. I know 
 Credits to Sean V#9999 for making some of the cheats from the Answers folder.
 
 Credits to Basil#1337 for giving me an idea how to do it.
+
+# Don't steal code
+Please don't steal code, if you want to modify it make sure to credit me, thank you.
