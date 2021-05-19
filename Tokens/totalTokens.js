@@ -13,6 +13,7 @@
     });
     const a = await n.json();
 
-    console.log(`Your total tokens are: ${a.totalTokens}`)
+    console.log(`Your total tokens are: ${a.totalTokens}`);
+    console.log(`Current tokens in your account: ${a.tokens}`);
 
 })();
