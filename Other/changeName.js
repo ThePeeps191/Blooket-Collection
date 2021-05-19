@@ -18,6 +18,6 @@
     });
     const i = await a.json();
 
-    console.log(`Error, ${i.msg}`)
+    console.log(`Error: ${i.msg}`)
 
 })();
