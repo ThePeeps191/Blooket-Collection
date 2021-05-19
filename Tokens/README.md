@@ -2,7 +2,7 @@
 This cheat allows you to give yourself 500 coins/tokens what ever you wanna call it. If you go above 500 tokens it will give you an error, so please don't.
 
 # Show total tokens:
-This file shows you how many total tokens you have in your account.
+This file shows you how many total tokens and current amount of tokens you have in your account.
 
 # How to use
 copy code from what ever file you wish and paste it into the console.
