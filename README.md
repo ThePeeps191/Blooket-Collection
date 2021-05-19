@@ -4,7 +4,7 @@ Hey, welcome to my repository. This repository is a collection of Blooket cheats
 # How To Use
 All code in this repository is run and tested in the console (crtl + shift + j). If you want to run this copy any code you want to use and paste in the console.
 
-How to open the console? Press crtl + shift + j.
+How to open the console? Press __crtl + shift + j__.
 
 Anyways lets get started.
 
