@@ -23,7 +23,7 @@ Besides the answers cheat there is other fun cheats you can troll with.
 - [unlockBlook.js](https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Blooks/unlockBlook.js) files lets you unlock a blook from one of the boxes. (This uses your coins/tokens)
 
 # Other Folder
-The files in [Other](https://github.com/glixzzy/Blooket-Collection/tree/main/Other) is just random stuff i'll probably need to make more cheats. I'll probably be updating that folder a lot so be on a look out :).
+The files in [Other](https://github.com/glixzzy/Blooket-Collection/tree/main/Other) folder is just random stuff i'll probably need to make more cheats. I'll probably be updating that folder a lot so be on a look out :).
 
 # Donate 
 If you want to donate you don't have to, you can help me out by following my [twitter](https://twitter.com/glizuwu) and joining my discord --> https://discord.gg/bGRN82QQYM, Thank you and have a great day, most of all enjoy using these cheats :).
