@@ -12,6 +12,6 @@
     });
     const idkwhattocallthis = await get.json();
 
-    console.log(`Game/Set name is: ${idkwhattocallthis.numGames}`)
+    console.log(`You have : ${idkwhattocallthis.numGames}`)
 
 })();
