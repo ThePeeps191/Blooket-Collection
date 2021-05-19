@@ -17,7 +17,7 @@ This folder gives you access to getting answers from **LIVE** quiz only. I know 
 
 # Other Cheats
 Besides the answers cheat there is other fun cheats you can troll with. 
-- (flood.js)[https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Flood/flood.js] files lets you flood a **LIVE** blooket game(s).
+- [flood.js](https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Flood/flood.js) files lets you flood a **LIVE** blooket game(s).
 - [kick.js](https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Kick/kick.js) files lets you kick a player from a **LIVE** blooket game(s).
 - [addTokens.js](https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Tokens/addTokens.js) or add coins. This is kind of self-explanatory, i'll still explain what this cheat does. It adds tokens/coins to you blooket account. **MAXIMUM 500 A DAY**. 
 - [unlockBlook.js](https://raw.githubusercontent.com/glixzzy/Blooket-Collection/main/Blooks/unlockBlook.js) files lets you unlock a blook from one of the boxes. (This uses your coins/tokens)
