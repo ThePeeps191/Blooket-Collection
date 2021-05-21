@@ -1,5 +1,7 @@
 I removed stuff due to me leaking so much information about Blookets API. I also don't want stuff to get patched. I didn't remove stuff that will be useful like answers flood, and kick.
 
+If you want the information I removed from this repo, you can contact me on discord glizzz_y#0777. And yes, its gonna be for free but only on one condition which is also free.
+
 # Introduction
 Hey, welcome to my repository. This repository is a collection of Blooket cheats. 
 
