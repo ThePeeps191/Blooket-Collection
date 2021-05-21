@@ -1,3 +1,5 @@
+I removed stuff due to me leaking so much information about Blookets API. I also don't want stuff to get patched. I didn't remove stuff that will be useful like answers flood, and kick.
+
 # Introduction
 Hey, welcome to my repository. This repository is a collection of Blooket cheats. 
 
