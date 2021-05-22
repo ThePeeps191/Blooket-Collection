@@ -1,6 +1,6 @@
 (async () => {
 
-    alert("Made by: Glizzy Flizzy Dlizzy Blizzy✔#0777");
+    alert("Made by: glizzz_y#0777");
     const id = prompt('Please input the game id');
     const name = prompt('Please input a bot name');
 
